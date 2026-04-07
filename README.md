@@ -1,2 +1,2 @@
-# FreMM
-A Do-It-Yourself Coordinate Measuring Machine For Under $200
+# Icarus Parachute System
+An Emergency Parachute System For Small UAS
